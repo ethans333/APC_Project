@@ -1,7 +1,6 @@
 # APC Unreal Engine Project 
 
-![APC](apc.png)
-
+![APC](https://raw.githubusercontent.com/ethans333/APC_Project/refs/heads/main/apc.png)
 ### Assets
 
 - [APC Asset](https://www.fab.com/listings/fe642fdd-c5bc-4e7d-bcc2-6bc0d43c1be5)
